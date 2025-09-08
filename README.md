@@ -14,3 +14,6 @@ Escavação e Impermeabilização ▶️: active, a3, after a2, 15d
 section Construção da Casa:
 Paredes, Colunas, Vigas e Telhados ▶️: active, a4, after a3, 30d
 
+section Instalações Internas:
+Criação de Redes e Tubulações ▶️: active, a5, after a4, 20d
+
