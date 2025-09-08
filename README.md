@@ -2,7 +2,7 @@
 gantt
 title Construção Casa
 dateFormat YYYY-MM-DD
-section Planejamento e Aprovações:
+section Planejamento e Aprovações
 Criação de Desenhos e Aprovações ▶️: active, a1, 2025-09-08, 20d
 
 section Preparação do Terreno:
