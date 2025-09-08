@@ -9,5 +9,8 @@ section Preparação do Terreno:
 Limpeza e Nivelamento ▶️ Em Andamento: active, a2, after a1, 10d
 
 section Construção Fundação:
-Escavação e Impermeabilização ▶️ Em Andamento: active, a3, after a2, 10d
+Escavação e Impermeabilização ▶️ Em Andamento: active, a3, after a2, 15d
+
+section Construção da Casa:
+Paredes, Colunas, Vigas e Telhados ▶️ Em Andamento: active, a4, after a3, 30d
 
