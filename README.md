@@ -22,7 +22,7 @@ gantt
     Pintura, Reboco, Portas :active, a6, after a5, 25d
 
     section Acabamento Externo
-    Pintura Ext., Pais., Cercas :active, a7, after a6, 15d
+    Pintura Ext e Cercas :active, a7, after a6, 15d
 
     section Finalização e Entrega
     Aval. :active, a8, after a7, 5d
