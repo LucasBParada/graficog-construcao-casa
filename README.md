@@ -22,3 +22,7 @@ Pintura, Reboco, Portas ▶️: active, a6, after a5, 25d
 
 section Acabamento Externo:
 Pintura Externa, Paisa., Cercas ▶️: active, a7, after a6, 15d
+
+section Finalização e Entrega:
+Avaliações: ▶️: active, a8, after a7, 5d
+```
