@@ -26,4 +26,5 @@ gantt
 
     section Finalização e Entrega
     Aval. :active, a8, after a7, 5d
+```
 
