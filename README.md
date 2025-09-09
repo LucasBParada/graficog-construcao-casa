@@ -4,7 +4,7 @@ gantt
     dateFormat YYYY-MM-DD
 
     section Planejamento
-    Criação de Desenhos e Aprovações :active, a1, 2025-09-08, 20d
+    Desenhos e Aprovações :active, a1, 2025-09-08, 20d
 
     section Preparação do Terreno
     Limpeza e Nivelamento :active, a2, after a1, 10d
