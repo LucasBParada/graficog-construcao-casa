@@ -19,3 +19,6 @@ Redes e Tubulações ▶️: active, a5, after a4, 20d
 
 section Acabamento Interno:
 Pintura, Reboco, Portas ▶️: active, a6, after a5, 25d
+
+section Acabamento Externo:
+Pintura Externa, Paisa., Cercas ▶️: active, a7, after a6, 15d
